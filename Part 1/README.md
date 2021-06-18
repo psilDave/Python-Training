@@ -17,9 +17,10 @@ Hard | 5
 
 ### Demo Video:
 This is a quick video showing how the code works.
+
 [Guessing Game DEMO](https://drive.google.com/file/d/14gStDcXyKNqnnZGUwqsKi3Ju-cAoQSyf/view?usp=sharing)
 
-
 Music: [Abriu - Calmará](https://www.youtube.com/watch?v=bJiwLuuzfHk) 
+
 ### Future changes:
 In the future I plan to implement this game using Object Orientation and add error and exception handling.
