@@ -1,0 +1,59 @@
+blackberry
+avocado
+pineapple
+apricot
+açaí berry
+Barbados berry
+plum
+prune
+banana
+manzano banana
+yellow cavendish banana
+sugar banana
+burro banana
+jelly palm
+hog plum
+cashew
+persimmon
+star fruit
+cherry
+coconut
+cupuacu
+apricot
+fig
+raspberry
+sweetsop
+guava
+soursop
+jaboticaba
+jackfruit
+java plum
+kiwifruit
+lychee
+lime
+lemon
+apple
+green papaya
+papaya
+mango
+passion fruit
+quince
+watermelon
+melon
+tangerine
+blueberry
+Japanese medlar
+pear
+peach
+dragon fruit
+pomelo	grapefruit
+pomegranade
+date
+tamarind
+clementine
+grapefruit
+grape
+raisins
+gold raisins
+
+-	-
