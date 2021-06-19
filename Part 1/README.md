@@ -1,6 +1,6 @@
 # GUESSING GAME
 
-This is a simple game with python fundamentals. This idea was suggested by the course [Python 3 parte 1: Introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem).
+This is a simple game developed with python fundamentals. This idea was suggested by the course [Python 3 parte 1: Introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem).
 I made some changes to the code, but the essential idea is shown in the course. Error and exception handling is not implemented.
 
 ## HOW TO PLAY ?
