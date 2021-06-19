@@ -1,4 +1,4 @@
-# Hangman Game
+# HANGMAN GAME
 
 This is a simple and well-known game developed with python fundamentals, especially using functions. This idea was suggested by the course [Python 3 parte 2: Avançando na linguagem](https://cursos.alura.com.br/course/python-3-avancando-na-linguagem).
 I made some changes to the code, but the essential idea is shown in the course. Error and exception handling is not implemented.
