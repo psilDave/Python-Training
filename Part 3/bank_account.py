@@ -45,7 +45,7 @@ class Account:
     def __limit(self):
         return self.__limit
 
-    #  Setter Methods
+    #  Setter
 
     @__limit.setter
     def __limit(self, n_limit):
