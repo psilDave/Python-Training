@@ -1,2 +1,0 @@
-class InvalidBid(Exception):
-    pass
